@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562144179547",
+    "project_id": "profilepic-cfeb8",
+    "storage_bucket": "profilepic-cfeb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562144179547:android:9dd65bc62824688ecf167e",
+        "android_client_info": {
+          "package_name": "com.example.profilepic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562144179547-i5b40354pc1a8ildrhm0s39smanf5a38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-hZR4kvSjJz0TLzir89TQbYiFSaW0zPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562144179547-i5b40354pc1a8ildrhm0s39smanf5a38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
